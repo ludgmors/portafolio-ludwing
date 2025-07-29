@@ -5,8 +5,8 @@ import { GraduationCap, CheckCircle, ExternalLink } from "lucide-react";
 const courses = [
   {
     title: "Curso de SQL desde cero",
-    provider: "Platzi",
-    url: "https://platzi.com/cursos/sql/",
+    provider: "Udemy",
+    url: "https://www.udemy.com/certificate/UC-ad03bc4c-37af-46a3-b1b1-dbe89b527ff1/",
   },
   {
     title: "Fundamentos de Redes de Datos",
@@ -16,6 +16,7 @@ const courses = [
   {
     title: "Ciberseguridad Básica",
     provider: "Cisco Networking Academy Cybersecurity",
+    url: "https://www.netacad.com/es/career-paths/cybersecurity?courseLang=es-XL",
   },
   {
     title: "Desarrollo web (Fundamentos de JavaScript)",
@@ -25,6 +26,7 @@ const courses = [
   {
     title: "Learn C#",
     provider: "Codecademy",
+    url: "https://www.codecademy.com/enrolled/courses/learn-c-sharp",
   },
 ];
 

@@ -21,6 +21,13 @@ const projects = [
     tech: ["ASP.NET MVC ", "C#", "SQL Server"],
     link: "https://github.com/ludgmors/SistemaVentaAspMVC-.NET",
   },
+   {
+    name: "💼 Portafilo Web ",
+    description: "Mi portafolio personal hecho con React + Vite + TailwindCSS, desplegado en Vercel.",
+    tech: ["Vite", "React", "TailwindCSS", "JavaScript"],
+    link: "https://github.com/ludgmors/portafolio-ludwing",
+  },
+
 ];
 
 const GithubSection = () => {

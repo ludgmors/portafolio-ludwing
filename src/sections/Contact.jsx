@@ -22,7 +22,7 @@ const Contact = () => {
         <div className="text-left space-y-6 text-gray-300">
           <div className="flex items-center gap-3">
             <FaEnvelope className="text-xl text-cyan-400" />
-            <span>Ludgmors123@gmail.com</span>
+            <span>ludwingdepaz001@gmail.com</span>
           </div>
           <div className="flex items-center gap-3">
             <FaPhone className="text-xl text-cyan-400" />
@@ -31,11 +31,11 @@ const Contact = () => {
           <div className="flex items-center gap-3">
             <FaLinkedin className="text-xl text-cyan-400" />
             <a
-              href="https://linkedin.com/in/tuusuario"
+              href="https://www.linkedin.com/in/ludwing-danilo-morales-de-paz-49401332a/"
               target="_blank"
               className="hover:underline"
             >
-              /tuusuario
+              /Ludwing Danilo Morales De Paz
             </a>
           </div>
           <div className="flex items-center gap-3">
@@ -45,7 +45,7 @@ const Contact = () => {
               target="_blank"
               className="hover:underline"
             >
-              /tuusuario
+              /ludgmors
             </a>
           </div>
         </div>
